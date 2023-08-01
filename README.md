@@ -25,7 +25,7 @@ The steps and point allocations are as follows:
 
 I used the following to help me complete the assignment:
 
-https://stackoverflow.com
-https://sparkbyexamples.com
+https://stackoverflow.com <br>
+https://sparkbyexamples.com <br>
 Collaboration with classmates via Slack
 
